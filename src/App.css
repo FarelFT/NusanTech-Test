@@ -1,0 +1,16 @@
+.app {
+  margin: 3rem auto;
+  width: 30rem;
+  padding: 1rem;
+  background: #3c0080;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+}
+
+.app h1,
+h2 {
+  color: white;
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}
